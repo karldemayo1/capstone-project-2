@@ -1,0 +1,15 @@
+/* Color Palette: https://colorhunt.co/palette/27374d526d829db2bfdde6ed */
+body {
+    background-color: #DDE6ED;
+}
+
+#font-radley {
+    font-family: 'Radley', serif;
+}
+#font-carlito {
+    font-family: 'Carlito', sans-serif;
+}
+
+#profilejpg {
+    border-radius: 50%;
+}
